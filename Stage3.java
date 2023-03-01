@@ -1,8 +1,10 @@
+// this is working not quite right, so I moved to Stage3_1 
+
 package ChuckNorrisCipherEncoder;
 
 import java.util.Scanner;
 
-// this is working not quite right, so I moved to Stage3_1 
+
 public class Stage3 {
 
 	public static void main(String[] args) {
